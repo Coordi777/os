@@ -1,6 +1,4 @@
-# 操作系统实验
+# Course experiment of OS
 
-​	今年老师只留了双数部分的实验，所以目前只有这些实验的实验报告。
-
-​	不把源码单独列出来了，都在.md的文件里，实验报告写的也很详细，不过这个实验自带了答案，不会的可以去看一下原答案，都带有英文注释，读起来还好。
+​	Tsinghua open source operating system experiment part of the experimental report (including code)
 
